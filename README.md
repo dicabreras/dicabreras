@@ -1,23 +1,24 @@
-# 👋 Hi! I'm Diego Cabrera also known as GAL1LEO-DC in the CP World
+# 👋 Hi! I'm Diego Cabrera — also known as **GAL1LEO-DC** in the CP world
 
-I am a **Computer Science student** at Universidad Nacional de Colombia. My areas of interests include in **Data Analysis**, **Software Engineering**, **Algorithms** and **Discrete Mathematics**.
-
----
-
-### 🚀 About me
-
-* Currently training for the The **2025 ICPC South America North Finals**
-* I am also a **german teacher**.
-* I enjoy learning foreing languages. I handle proficiently **Spanish (mother language)**, **English**, **German** and **French**
-* I have interests in learning about **Traiding Algorithms and numeric methods in finance**
-* Some of my personal interests are **Playing Guitar and piano**, **Gym**, **Running**
+I’m a **Computer Science student** at the **Universidad Nacional de Colombia**.  
+My main areas of interest include **Data Analysis**, **Software Engineering**, **Algorithms**, and **Discrete Mathematics**.
 
 ---
 
-### 🛠️ Main tools
+### 🚀 About Me
 
-* **Main programming languages:** C++, Java, Python, Mathematica.
-* **Data Tools:** Pandas, NumPy, Matplotlib, SQL.
+- Currently **training for the 2025 ICPC South America North Finals**.  
+- Also working as a **German teacher**.  
+- Passionate about **foreign languages** — fluent in **Spanish (native)**, **English**, **German**, and **French**.  
+- Interested in **trading algorithms**, **numerical methods in finance**, and **machine learning**.  
+- Outside of programming, I enjoy **playing guitar and piano**, going to the **gym**, and **running**.
+
+---
+
+### 🛠️ Main Tools
+
+- **Programming languages:** C++, Java, Python, Mathematica  
+- **Data tools:** Pandas, NumPy, Matplotlib, SQL
 
 ---
 
@@ -31,5 +32,5 @@ I am a **Computer Science student** at Universidad Nacional de Colombia. My area
 
 ### ✉️ Contact
 
-* **E-mail:** [diegocabrera2011@gmail.com](mailto:diegocabrera2011@gmail.com)
-* **LinkedIn:** [https://www.linkedin.com/in/gal1leo-dc]
+- **Email:** [diegocabrera2011@gmail.com](mailto:diegocabrera2011@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/gal1leo-dc](https://www.linkedin.com/in/gal1leo-dc)
